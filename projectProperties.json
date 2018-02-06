@@ -30,9 +30,9 @@
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
         "isModified": false,
-        "isEnableJSContainer": false,
-        "isEnableJSContainerAndroid": false,
-        "isEnableJSContaineriOS": false
+        "isEnableJSContainer": true,
+        "isEnableJSContainerAndroid": true,
+        "isEnableJSContaineriOS": true
     },
     "wap_bb400_fontsize": "14",
     "wap_bb360_fontsize": "13",
