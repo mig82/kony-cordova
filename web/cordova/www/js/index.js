@@ -51,6 +51,10 @@ var app = {
   	getDeviceInfo: function(){
 	  	alert("Hello");
 		alert("Cordova version: " + device.cordova + "\n");
+	  	alert("Device model: " + device.model + "\n");
+        alert("Device platform: " + device.platform + "\n");
+        alert("Device UUID: " + device.uuid + "\n");
+        alert("Device version: " + device.version + "\n");
 	}
 };
 
