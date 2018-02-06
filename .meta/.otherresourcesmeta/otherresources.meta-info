@@ -1,7 +1,16 @@
 {
     "HEAD": "jc4a372f387e42969326379619941bfa",
+    "haa7d65da0e849d0914a155d7ccca7bc": {
+        "extension": "",
+        "kuid": "haa7d65da0e849d0914a155d7ccca7bc",
+        "name": ".gitkeep",
+        "parent": "jc4a372f387e42969326379619941bfa",
+        "type": "F"
+    },
     "jc4a372f387e42969326379619941bfa": {
-        "children": [],
+        "children": [
+            "haa7d65da0e849d0914a155d7ccca7bc"
+        ],
         "kuid": "jc4a372f387e42969326379619941bfa",
         "name": "Other Resources",
         "type": "D"
