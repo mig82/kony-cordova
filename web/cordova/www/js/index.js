@@ -26,7 +26,8 @@ var app = {
     // Bind any events that are required on startup. Common events are:
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.addEventListener('deviceready', this.onDeviceReady);
+		document.getElementById('getDeviceInfoBtn').addEventListener('click', this.getDeviceInfo);
     },
     // deviceready Event Handler
     //
@@ -45,7 +46,12 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-    }
+    },
+  	
+  	getDeviceInfo: function(){
+	  	alert("Hello");
+		alert("Cordova version: " + device.cordova + "\n");
+	}
 };
 
 app.initialize();
