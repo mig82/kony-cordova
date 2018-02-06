@@ -126,7 +126,7 @@
     <attributes name="wp10pfxkey" value=""/>
     <attributes name="ACCESS_CHECKIN_PROPERTIES" value="false"/>
     <attributes name="MOUNT_FORMAT_FILESYSTEMS" value="false"/>
-    <attributes name="lastmodifiedtime" value="1517943832803"/>
+    <attributes name="lastmodifiedtime" value="1517951000153"/>
     <attributes name="ipad_notificationicon_1x_20" value=""/>
     <attributes name="iphone_spotlighticon_2x_40" value=""/>
     <attributes name="wp10microphone" value="false"/>
@@ -309,7 +309,7 @@
     <attributes name="WP8_ID_CAP_PHONEDIALER" value="true"/>
     <attributes name="bb10urlscheme" value=""/>
     <attributes name="apppackagekey" value="com.orgname.CordovaTest"/>
-    <attributes name="andtargetsdkkey" value="4.0 (14)"/>
+    <attributes name="andtargetsdkkey" value="6.0 (23)"/>
     <attributes name="win8bgagentclassname" value=""/>
     <attributes name="wp81sdescriptionkey" value="Sample Test Application"/>
     <attributes name="appversionkey" value="1.0.0"/>
@@ -350,7 +350,7 @@
     <attributes name="SIGNAL_PERSISTENT_PROCESSES" value="false"/>
     <attributes name="desktopwebbasefontsize" value="16"/>
     <attributes name="REORDER_TASKS" value="false"/>
-    <attributes name="andminsdkkey" value="4.0 (14)"/>
+    <attributes name="andminsdkkey" value="4.1 (16)"/>
     <attributes name="Proximity" value="true"/>
     <attributes name="androidscreenresizeable" value="false"/>
     <attributes name="GET_ACCOUNTS" value="false"/>

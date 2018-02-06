@@ -43,7 +43,7 @@
     "wap_android400_fontsize": "14",
     "wap_spaandroidtabhdpi_fontsize": "18",
     "cordovaVersionInfo": {
-        "cordovaVersion": "7.0.0",
+        "cordovaVersion": "6.3.1",
         "useGlobalCordova": false
     },
     "wap_bb320_fontsize": "15",
