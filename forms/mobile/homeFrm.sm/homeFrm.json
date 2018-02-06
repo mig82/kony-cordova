@@ -26,7 +26,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "homeCordova"
+    ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
