@@ -43,8 +43,8 @@
     "wap_android400_fontsize": "14",
     "wap_spaandroidtabhdpi_fontsize": "18",
     "cordovaVersionInfo": {
-        "useGlobalCordova": true,
-        "cordovaVersion": "8.0.0"
+        "cordovaVersion": "7.0.0",
+        "useGlobalCordova": false
     },
     "wap_bb320_fontsize": "15",
     "enableCordova": true,
@@ -63,7 +63,7 @@
     "wap_winphone320_fontsize": "12",
     "wap_spaipad_fontsize": "17",
     "wap_ip_fontsize": "12",
-    "cordovaModified": true,
+    "cordovaModified": false,
     "wap_bb440_fontsize": "15",
     "watchos_shortlooknotificationicon_42": "",
     "statusBarHidden": "false",
